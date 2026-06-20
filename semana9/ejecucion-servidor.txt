@@ -1,0 +1,8 @@
+- Al ejecutar `node server.js`: el programa se inicia, queda activo y empieza a escuchar peticiones en el puerto definido.
+- Mensaje en terminal: `Servidor activo en http://localhost:3000`
+- Al visitar la ruta `/estado`: el servidor responde con datos estructurados en formato JSON.
+- Respuesta esperada de `/estado`:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

@@ -1,0 +1,9 @@
+• Sistema operativo: es el software base que administra el hardware y los recursos del equipo. Permite que el resto de programas se ejecuten y se comuniquen entre sí.
+
+• Node.js: entorno que permite ejecutar código JavaScript fuera del navegador. Es la base para crear servidores rápidos y escalables.
+
+• Aplicación server.js: es el programa principal donde se definen las rutas y la lógica del servicio. Se encarga de responder a cada petición que llega.
+
+• Puerto: número que actúa como canal de conexión exclusivo. Permite que el servidor reciba y envíe información por una dirección determinada.
+
+• Logs: registran todo lo que ocurre: accesos, mensajes y errores. Ayudan a revisar el funcionamiento y solucionar fallos rápidamente.
