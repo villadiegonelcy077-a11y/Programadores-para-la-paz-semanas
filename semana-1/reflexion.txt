@@ -1,0 +1,11 @@
+el uso responsable de la informacion es la
+base que une a la participacion cuidadana
+y al trabajo con herramientas como git para 
+que la participacion sea constructiva se requiere
+compartir datos veraces respetar fuentes y cuidar
+la privacidad evitando la desinformacion por su
+parte git organiza el trabajo tecnico registrando
+cambios y facilitando la colaboracion lo cual tambien
+exige manejar la desinformacion con ética y cuidado
+estos dos ámbitos se conectan ademas por que ambos sw basan en la transparencia
+
