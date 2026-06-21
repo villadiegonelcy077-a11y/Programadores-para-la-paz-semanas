@@ -1,9 +1,0 @@
- 
- 
-Es fundamental que las plataformas tecnológicas funcionen de forma estable y segura en un servidor, porque son el soporte que usan las comunidades para conectarse, compartir información y realizar sus actividades. Si el sistema falla o no es seguro, los usuarios no podrán acceder a los servicios con normalidad y se verán afectadas sus interacciones y su confianza en la herramienta.
- 
-La estabilidad garantiza que los servicios estén disponibles en todo momento, evitando interrupciones que dificulten el trabajo o la comunicación de las personas. Por su parte, la seguridad protege los datos y la información que comparten los miembros de la comunidad, evitando accesos no autorizados o pérdida de contenido importante.
- 
-Además, un servidor bien gestionado permite que las aplicaciones funcionen de manera eficiente, atendiendo las solicitudes de todos los usuarios sin retrasos ni errores. Esto es clave para que las comunidades puedan desarrollar sus proyectos, compartir conocimientos y mantener una comunicación fluida y confiable.
- 
-En definitiva, un entorno estable y seguro es la base para que las herramientas tecnológicas cumplan su propósito, ofreciendo un espacio confiable donde las personas pueden interactuar y trabajar sin preocupaciones por fallos o riesgos de seguridad
