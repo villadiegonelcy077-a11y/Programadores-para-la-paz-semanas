@@ -1,0 +1,5 @@
+• ¿Qué hace esta ruta?
+Esta ruta de tipo POST recibe el mensaje o información que envía el usuario, lo guarda o lo lee, y devuelve una respuesta confirmando que el reporte se recibió bien. A diferencia de las rutas que solo muestran información, esta sirve para recibir datos nuevos que las personas quieren enviar.
+
+• ¿Para qué podría servir en una aplicación comunitaria?
+En una comunidad es muy útil porque permite que las personas envíen reportes, alertas, avisos, sugerencias o información importante de forma ordenada, segura y fácil. Por ejemplo, se puede usar para avisar de un problema, reportar algo que necesite atención, inscribirse a actividades o compartir novedades, y toda la información llega directo al sistema sin perderse ni confundirse.

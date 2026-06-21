@@ -1,0 +1,4 @@
+- Al entrar a http://localhost:3000: Se muestra el mensaje "Servidor activo", que confirma que el servidor está funcionando correctamente.
+- Al entrar a http://localhost:3000/saludo: Se muestra el texto fijo "Hola comunidad", es un saludo general para todos los que visitan esa dirección.
+- Al entrar a http://localhost:3000/mensaje/juan: Se muestra el saludo personalizado "Hola juan", el nombre cambia según lo que escribamos al final de la dirección, por ejemplo si ponemos /mensaje/ana saldrá "Hola ana".
+-
