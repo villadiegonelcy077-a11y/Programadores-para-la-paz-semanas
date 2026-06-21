@@ -1,0 +1,19 @@
+Repositorio
+
+es la carpeta donde se guardan todos los archivos
+Y el historial de cambios del proyecto es el lugar donde git Y organiza todo el trabajo
+Funciona como una base de datos que permite tener el control de versiones saber que se modificó y quién lo hizo manteniendo todo organizado y seguro
+
+
+commit
+
+¿Es la acción de guardar o confirmar los cambios realizados en los archivos creando
+Punto en la historia del proyecto con una descripción de lo que se hizo cada cómic, deja una marca permanente que permite
+Déjame una marca permanente que permite volver a una versión en cualquier momento funcionando como una fotografía del estado del proyecto en este instante. Exacto.
+
+
+push
+
+¿Es el comando que sirve para enviar o subir los cambios que guardamos en nuestro equipo local
+El repositorio remoto, como ejemplo.githubCon este paso, compartimos nuestro trabajo.
+Y lo hacemos visible para que los demás o lo guardemos en la nube para tener una copia segura y actualizada
